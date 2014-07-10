@@ -1368,6 +1368,12 @@ ul.recent li h6 a{
 	font-weight:600;
 }
 
+ul.recent li a{
+  color:#353535;
+  font-size:16px;
+  font-weight:600;
+}
+
 
 .widget ul.tags {
 	list-style:none;
@@ -1576,7 +1582,7 @@ ul.social-network li {
 	font-size:12px;
 }
 
-#sub-footer ul.social-network {
+ ul.social-network {
 	float:right;
 }
 
