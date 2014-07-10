@@ -332,7 +332,11 @@ ul.nav li.dropdown a {
 .flex-caption h3 {color: #fff; letter-spacing: 1px; margin-bottom: 8px; text-transform: uppercase;}
 .flex-caption p {margin: 0 0 15px;}
 
+/*modal video*/
 
+.modal-dialog .modal-body #videoAnnouncement{
+  width: 100%
+}
 
 /* ===================================
 7. Section: call action
